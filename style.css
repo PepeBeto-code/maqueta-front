@@ -1,0 +1,95 @@
+/* .nav{
+    background-color: aqua;
+}
+.centro{
+    height: 100vh;
+    background-color: black;
+}
+.div1{
+    height: 70%;
+}
+.img{
+    height: 55%;
+    background-image: url("https://prodigymedia.com.mx/wp-content/uploads/2019/10/Universidad-UTEL.png");
+}
+.cards{
+    margin: 2px;
+    height: 40%;
+    background-color: antiquewhite;
+    position: relative;
+}
+.c{
+    height: 50%;
+    width: 20% !important;
+}
+.card{
+   position: absolute;
+} */
+.ca{
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.ult{
+    background-color: blue;
+}
+
+.p{
+    height: 5px !important;
+}
+.card2{
+
+    margin:10px auto;
+    border-radius:5px;
+    padding:13px;
+    height:140px;
+    background-size: 100% 100%;
+    background-repeat:no-repeat; 
+    width: 20% !important;
+    background-image: url("./assets/tipoCar2.png");
+}
+
+.img{
+
+    margin:10px auto;
+    border-radius:5px;
+    padding:13px;
+    width:220px;
+    height:220px;
+    background-size: 100% 100%;
+    background-repeat:no-repeat; 
+    width: 80% !important;
+    background-image: url("./assets/banners_home_desktop.png");
+}
+.inline{
+    display: inline;
+    border: 5px !important;
+    border-radius: 10px;
+    border-color: aqua !important;
+}
+.cars{
+    margin:10px auto;
+    border-radius:5px;
+    padding:13px;
+    width:220px;
+    height:220px;
+    background-size: 100% 100%;
+    background-repeat:no-repeat; 
+    width: 70% !important;
+    background-image: url("./assets/mapa_.png");
+}
+.c{
+    margin:10px auto;
+    border-radius:5px;
+    padding:13px;
+    width:220px;
+    height:220px;
+    background-size: 100% 100%;
+    background-repeat:no-repeat; 
+    width: 70% !important;
+    background-image: url("");
+}
+
+.letra{
+    color: white;
+}
